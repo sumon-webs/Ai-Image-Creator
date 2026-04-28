@@ -1,0 +1,452 @@
+[
+    {
+        "id": 1,
+        "title": "Sunset Mountain View",
+        "imageUrl": "https://example.com/images/1.jpg",
+        "prompt": "a beautiful sunset over snowy mountains",
+        "category": "nature",
+        "model": "stable-diffusion",
+        "resolution": "1024x1024",
+        "likes": 120,
+        "downloads": 45,
+        "createdAt": "2026-01-10",
+        "tags": [
+            "sunset",
+            "mountain",
+            "nature",
+            "sky"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Futuristic City",
+        "imageUrl": "https://example.com/images/2.jpg",
+        "prompt": "a futuristic cyberpunk city at night with neon lights",
+        "category": "sci-fi",
+        "model": "midjourney",
+        "resolution": "1024x1792",
+        "likes": 340,
+        "downloads": 120,
+        "createdAt": "2026-01-11",
+        "tags": [
+            "cyberpunk",
+            "city",
+            "neon",
+            "future"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Cute Cat Portrait",
+        "imageUrl": "https://example.com/images/3.jpg",
+        "prompt": "a cute fluffy cat sitting on sofa",
+        "category": "animals",
+        "model": "dalle",
+        "resolution": "1024x1024",
+        "likes": 500,
+        "downloads": 210,
+        "createdAt": "2026-01-12",
+        "tags": [
+            "cat",
+            "cute",
+            "pet",
+            "animal"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Minimal Desk Setup",
+        "imageUrl": "https://example.com/images/4.jpg",
+        "prompt": "a clean minimal workspace with laptop and plants",
+        "category": "lifestyle",
+        "model": "stable-diffusion",
+        "resolution": "1024x1024",
+        "likes": 210,
+        "downloads": 80,
+        "createdAt": "2026-01-13",
+        "tags": [
+            "desk",
+            "minimal",
+            "workspace",
+            "setup"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Space Exploration",
+        "imageUrl": "https://example.com/images/5.jpg",
+        "prompt": "astronaut exploring alien planet surface",
+        "category": "space",
+        "model": "midjourney",
+        "resolution": "1792x1024",
+        "likes": 410,
+        "downloads": 150,
+        "createdAt": "2026-01-14",
+        "tags": [
+            "space",
+            "astronaut",
+            "planet",
+            "exploration"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Fantasy Castle",
+        "imageUrl": "https://example.com/images/6.jpg",
+        "prompt": "a magical fantasy castle floating in the sky",
+        "category": "fantasy",
+        "model": "dalle",
+        "resolution": "1024x1024",
+        "likes": 600,
+        "downloads": 300,
+        "createdAt": "2026-01-15",
+        "tags": [
+            "castle",
+            "fantasy",
+            "magic",
+            "sky"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Ocean Wave Crash",
+        "imageUrl": "https://example.com/images/7.jpg",
+        "prompt": "powerful ocean waves crashing on rocks",
+        "category": "nature",
+        "model": "stable-diffusion",
+        "resolution": "1024x1024",
+        "likes": 190,
+        "downloads": 70,
+        "createdAt": "2026-01-16",
+        "tags": [
+            "ocean",
+            "waves",
+            "sea",
+            "nature"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Street Market Vibes",
+        "imageUrl": "https://example.com/images/8.jpg",
+        "prompt": "busy street market in asia with lights and crowd",
+        "category": "culture",
+        "model": "midjourney",
+        "resolution": "1024x1792",
+        "likes": 275,
+        "downloads": 110,
+        "createdAt": "2026-01-17",
+        "tags": [
+            "market",
+            "street",
+            "asia",
+            "crowd"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Robot Assistant",
+        "imageUrl": "https://example.com/images/9.jpg",
+        "prompt": "a friendly humanoid robot in modern home",
+        "category": "technology",
+        "model": "dalle",
+        "resolution": "1024x1024",
+        "likes": 320,
+        "downloads": 140,
+        "createdAt": "2026-01-18",
+        "tags": [
+            "robot",
+            "ai",
+            "tech",
+            "future"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Snowy Forest Path",
+        "imageUrl": "https://example.com/images/10.jpg",
+        "prompt": "a snowy forest path during winter morning",
+        "category": "nature",
+        "model": "stable-diffusion",
+        "resolution": "1024x1024",
+        "likes": 180,
+        "downloads": 60,
+        "createdAt": "2026-01-19",
+        "tags": [
+            "snow",
+            "forest",
+            "winter",
+            "path"
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Anime Character Portrait",
+        "imageUrl": "https://example.com/images/11.jpg",
+        "prompt": "anime style girl with glowing eyes",
+        "category": "anime",
+        "model": "midjourney",
+        "resolution": "1024x1024",
+        "likes": 720,
+        "downloads": 400,
+        "createdAt": "2026-01-20",
+        "tags": [
+            "anime",
+            "girl",
+            "portrait",
+            "glow"
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Luxury Car Showroom",
+        "imageUrl": "https://example.com/images/12.jpg",
+        "prompt": "luxury sports cars in modern showroom",
+        "category": "automobile",
+        "model": "dalle",
+        "resolution": "1024x1024",
+        "likes": 260,
+        "downloads": 90,
+        "createdAt": "2026-01-21",
+        "tags": [
+            "car",
+            "luxury",
+            "showroom",
+            "sports"
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Rainy City Night",
+        "imageUrl": "https://example.com/images/13.jpg",
+        "prompt": "rainy night in city with reflections and lights",
+        "category": "city",
+        "model": "stable-diffusion",
+        "resolution": "1024x1792",
+        "likes": 390,
+        "downloads": 160,
+        "createdAt": "2026-01-22",
+        "tags": [
+            "rain",
+            "city",
+            "night",
+            "lights"
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Dragon in Sky",
+        "imageUrl": "https://example.com/images/14.jpg",
+        "prompt": "a giant dragon flying in cloudy sky",
+        "category": "fantasy",
+        "model": "midjourney",
+        "resolution": "1024x1024",
+        "likes": 850,
+        "downloads": 500,
+        "createdAt": "2026-01-23",
+        "tags": [
+            "dragon",
+            "fantasy",
+            "sky",
+            "myth"
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Modern Kitchen Design",
+        "imageUrl": "https://example.com/images/15.jpg",
+        "prompt": "luxury modern kitchen interior design",
+        "category": "interior",
+        "model": "dalle",
+        "resolution": "1024x1024",
+        "likes": 230,
+        "downloads": 95,
+        "createdAt": "2026-01-24",
+        "tags": [
+            "kitchen",
+            "modern",
+            "interior",
+            "design"
+        ]
+    },
+    {
+        "id": 16,
+        "title": "Desert Landscape",
+        "imageUrl": "https://example.com/images/16.jpg",
+        "prompt": "vast desert with dunes under blue sky",
+        "category": "nature",
+        "model": "stable-diffusion",
+        "resolution": "1024x1024",
+        "likes": 175,
+        "downloads": 55,
+        "createdAt": "2026-01-25",
+        "tags": [
+            "desert",
+            "sand",
+            "dunes",
+            "nature"
+        ]
+    },
+    {
+        "id": 17,
+        "title": "Gaming Setup RGB",
+        "imageUrl": "https://example.com/images/17.jpg",
+        "prompt": "gaming room setup with RGB lights",
+        "category": "gaming",
+        "model": "midjourney",
+        "resolution": "1024x1024",
+        "likes": 510,
+        "downloads": 220,
+        "createdAt": "2026-01-26",
+        "tags": [
+            "gaming",
+            "rgb",
+            "setup",
+            "pc"
+        ]
+    },
+    {
+        "id": 18,
+        "title": "Underwater World",
+        "imageUrl": "https://example.com/images/18.jpg",
+        "prompt": "coral reef underwater with fishes",
+        "category": "nature",
+        "model": "dalle",
+        "resolution": "1024x1024",
+        "likes": 340,
+        "downloads": 130,
+        "createdAt": "2026-01-27",
+        "tags": [
+            "underwater",
+            "fish",
+            "coral",
+            "ocean"
+        ]
+    },
+    {
+        "id": 19,
+        "title": "Old Library Room",
+        "imageUrl": "https://example.com/images/19.jpg",
+        "prompt": "ancient library with old books and warm light",
+        "category": "architecture",
+        "model": "stable-diffusion",
+        "resolution": "1024x1024",
+        "likes": 280,
+        "downloads": 100,
+        "createdAt": "2026-01-28",
+        "tags": [
+            "library",
+            "books",
+            "vintage",
+            "warm"
+        ]
+    },
+    {
+        "id": 20,
+        "title": "Space Station Orbit",
+        "imageUrl": "https://example.com/images/20.jpg",
+        "prompt": "space station orbiting earth with stars",
+        "category": "space",
+        "model": "midjourney",
+        "resolution": "1792x1024",
+        "likes": 450,
+        "downloads": 200,
+        "createdAt": "2026-01-29",
+        "tags": [
+            "space",
+            "station",
+            "earth",
+            "orbit"
+        ]
+    },
+    {
+        "id": 21,
+        "title": "Cyber Samurai",
+        "imageUrl": "https://example.com/images/21.jpg",
+        "prompt": "cyberpunk samurai warrior with neon sword",
+        "category": "sci-fi",
+        "model": "dalle",
+        "resolution": "1024x1024",
+        "likes": 780,
+        "downloads": 420,
+        "createdAt": "2026-01-30",
+        "tags": [
+            "samurai",
+            "cyberpunk",
+            "warrior",
+            "neon"
+        ]
+    },
+    {
+        "id": 22,
+        "title": "Flower Garden",
+        "imageUrl": "https://example.com/images/22.jpg",
+        "prompt": "colorful flower garden in spring season",
+        "category": "nature",
+        "model": "stable-diffusion",
+        "resolution": "1024x1024",
+        "likes": 260,
+        "downloads": 110,
+        "createdAt": "2026-01-31",
+        "tags": [
+            "flowers",
+            "garden",
+            "spring",
+            "colorful"
+        ]
+    },
+    {
+        "id": 23,
+        "title": "Street Food Stall",
+        "imageUrl": "https://example.com/images/23.jpg",
+        "prompt": "street food stall with delicious foods at night",
+        "category": "food",
+        "model": "midjourney",
+        "resolution": "1024x1792",
+        "likes": 310,
+        "downloads": 140,
+        "createdAt": "2026-02-01",
+        "tags": [
+            "food",
+            "street",
+            "stall",
+            "night"
+        ]
+    },
+    {
+        "id": 24,
+        "title": "Mountain Lake Reflection",
+        "imageUrl": "https://example.com/images/24.jpg",
+        "prompt": "calm lake reflecting mountains and sky",
+        "category": "nature",
+        "model": "dalle",
+        "resolution": "1024x1024",
+        "likes": 420,
+        "downloads": 180,
+        "createdAt": "2026-02-02",
+        "tags": [
+            "lake",
+            "mountain",
+            "reflection",
+            "calm"
+        ]
+    },
+    {
+        "id": 25,
+        "title": "AI Brain Visualization",
+        "imageUrl": "https://example.com/images/25.jpg",
+        "prompt": "digital AI brain with glowing neural network",
+        "category": "technology",
+        "model": "stable-diffusion",
+        "resolution": "1024x1024",
+        "likes": 650,
+        "downloads": 310,
+        "createdAt": "2026-02-03",
+        "tags": [
+            "ai",
+            "brain",
+            "neural",
+            "technology"
+        ]
+    }
+]
