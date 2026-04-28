@@ -1,5 +1,8 @@
 import { getImage } from "@/lib/DataFetch";
 import ImageCard from "./ImageCard";
+import { Button } from "@heroui/react";
+import { FaArrowRight } from "react-icons/fa";
+import Link from "next/link";
 
 const TopSection = async () => {
     const images = await getImage();
@@ -18,7 +21,14 @@ const TopSection = async () => {
                 ))}
 
             </div>
+            <div className=" flex justify-end pt-5 ">
+                <Link href={"/all-photos"} className="hover:translate-x-0.5">
+                    <Button>
+                        Show More <FaArrowRight />
 
+                    </Button>
+                </Link>
+            </div>
         </div>
     );
 };

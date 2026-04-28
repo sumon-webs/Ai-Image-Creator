@@ -7,7 +7,7 @@ const NavLink = ({ children, href }) => {
     return (
         <div>
             <Link
-            className={pathName === href && ' border-b-2 border-black'}
+            className={pathName === href ? ' border-b-2 border-black' : ""}
                 href={href} >{children}
             </Link>
         </div>
