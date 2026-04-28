@@ -1,11 +1,12 @@
 import { Button } from "@heroui/react";
 import Image from "next/image";
+import Link from "next/link";
 import React from "react";
 import { AiFillLike } from "react-icons/ai";
 import { FaDownload } from "react-icons/fa";
 
 const ImageCard = ({ image }) => {
-    const { imageUrl, title, category, likes, downloads } = image;
+    const {id, imageUrl, title, category, likes, downloads } = image;
 
     return (
         <div className="rounded-xl overflow-hidden shadow-md hover:shadow-2xl transition duration-300 bg-white dark:bg-gray-900 border border-gray-100 dark:border-gray-800">
@@ -56,7 +57,9 @@ const ImageCard = ({ image }) => {
                     fullWidth
                     className="bg-gray-900 text-white hover:bg-black dark:bg-white dark:text-black dark:hover:bg-gray-200 transition"
                 >
-                    View Details
+                    <Link href={`/all-photos/${id}`}>
+                        View Details
+                    </Link>
                 </Button>
             </div>
 
