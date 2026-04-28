@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "Sunset Mountain View",
-        "imageUrl": "https://example.com/images/1.jpg",
+        "imageUrl": "https://res.cloudinary.com/dyrgvsedy/image/upload/v1777397683/pexels-lorenza-magnaghi-660554185-36417530_ok5p0l.jpg",
         "prompt": "a beautiful sunset over snowy mountains",
         "category": "nature",
         "model": "stable-diffusion",
@@ -20,7 +20,7 @@
     {
         "id": 2,
         "title": "Futuristic City",
-        "imageUrl": "https://example.com/images/2.jpg",
+        "imageUrl": "https://res.cloudinary.com/dyrgvsedy/image/upload/v1777399277/pexels-jonathanborba-17233021_hpenm0.jpg",
         "prompt": "a futuristic cyberpunk city at night with neon lights",
         "category": "sci-fi",
         "model": "midjourney",
@@ -38,7 +38,7 @@
     {
         "id": 3,
         "title": "Cute Cat Portrait",
-        "imageUrl": "https://example.com/images/3.jpg",
+        "imageUrl": "https://res.cloudinary.com/dyrgvsedy/image/upload/v1777397669/pexels-anntarazevich-6796613_v66bgd.jpg",
         "prompt": "a cute fluffy cat sitting on sofa",
         "category": "animals",
         "model": "dalle",
@@ -56,7 +56,7 @@
     {
         "id": 4,
         "title": "Minimal Desk Setup",
-        "imageUrl": "https://example.com/images/4.jpg",
+        "imageUrl": "https://res.cloudinary.com/dyrgvsedy/image/upload/v1777399286/pexels-babydov-19196558_eyyrfl.jpg",
         "prompt": "a clean minimal workspace with laptop and plants",
         "category": "lifestyle",
         "model": "stable-diffusion",
@@ -74,7 +74,7 @@
     {
         "id": 5,
         "title": "Space Exploration",
-        "imageUrl": "https://example.com/images/5.jpg",
+        "imageUrl": "https://res.cloudinary.com/dyrgvsedy/image/upload/v1777397672/pexels-jan-van-der-wolf-11680885-19626630_tolif5.jpg",
         "prompt": "astronaut exploring alien planet surface",
         "category": "space",
         "model": "midjourney",
@@ -92,7 +92,7 @@
     {
         "id": 6,
         "title": "Fantasy Castle",
-        "imageUrl": "https://example.com/images/6.jpg",
+        "imageUrl": "https://res.cloudinary.com/dyrgvsedy/image/upload/v1777397667/pexels-carlos-davila-2222626-22718126_sbrk2d.jpg",
         "prompt": "a magical fantasy castle floating in the sky",
         "category": "fantasy",
         "model": "dalle",
@@ -110,7 +110,7 @@
     {
         "id": 7,
         "title": "Ocean Wave Crash",
-        "imageUrl": "https://example.com/images/7.jpg",
+        "imageUrl": "https://res.cloudinary.com/dyrgvsedy/image/upload/v1777399470/pexels-lannguyentranm-36967376_op2wmu.jpg",
         "prompt": "powerful ocean waves crashing on rocks",
         "category": "nature",
         "model": "stable-diffusion",
@@ -128,7 +128,7 @@
     {
         "id": 8,
         "title": "Street Market Vibes",
-        "imageUrl": "https://example.com/images/8.jpg",
+        "imageUrl": "https://res.cloudinary.com/dyrgvsedy/image/upload/v1777399459/pexels-nasirun-khan-102497153-37189969_cpiwgx.jpg",
         "prompt": "busy street market in asia with lights and crowd",
         "category": "culture",
         "model": "midjourney",
@@ -146,7 +146,7 @@
     {
         "id": 9,
         "title": "Robot Assistant",
-        "imageUrl": "https://example.com/images/9.jpg",
+        "imageUrl": "https://res.cloudinary.com/dyrgvsedy/image/upload/v1777399457/pexels-peaky-31177212_kfgl6z.jpg",
         "prompt": "a friendly humanoid robot in modern home",
         "category": "technology",
         "model": "dalle",
@@ -164,7 +164,7 @@
     {
         "id": 10,
         "title": "Snowy Forest Path",
-        "imageUrl": "https://example.com/images/10.jpg",
+        "imageUrl": "https://res.cloudinary.com/dyrgvsedy/image/upload/v1777399463/pexels-mzahidakyol-36058038_rttxdf.jpg",
         "prompt": "a snowy forest path during winter morning",
         "category": "nature",
         "model": "stable-diffusion",
@@ -182,7 +182,7 @@
     {
         "id": 11,
         "title": "Anime Character Portrait",
-        "imageUrl": "https://example.com/images/11.jpg",
+        "imageUrl": "https://res.cloudinary.com/dyrgvsedy/image/upload/v1777399457/pexels-peaky-31177212_kfgl6z.jpg",
         "prompt": "anime style girl with glowing eyes",
         "category": "anime",
         "model": "midjourney",
@@ -200,7 +200,7 @@
     {
         "id": 12,
         "title": "Luxury Car Showroom",
-        "imageUrl": "https://example.com/images/12.jpg",
+        "imageUrl": "https://res.cloudinary.com/dyrgvsedy/image/upload/v1777399463/pexels-mzahidakyol-36058038_rttxdf.jpg",
         "prompt": "luxury sports cars in modern showroom",
         "category": "automobile",
         "model": "dalle",
@@ -218,7 +218,7 @@
     {
         "id": 13,
         "title": "Rainy City Night",
-        "imageUrl": "https://example.com/images/13.jpg",
+        "imageUrl": "https://res.cloudinary.com/dyrgvsedy/image/upload/v1777399457/pexels-peaky-31177212_kfgl6z.jpg",
         "prompt": "rainy night in city with reflections and lights",
         "category": "city",
         "model": "stable-diffusion",
@@ -236,7 +236,7 @@
     {
         "id": 14,
         "title": "Dragon in Sky",
-        "imageUrl": "https://example.com/images/14.jpg",
+        "imageUrl": "https://res.cloudinary.com/dyrgvsedy/image/upload/v1777399459/pexels-nasirun-khan-102497153-37189969_cpiwgx.jpg",
         "prompt": "a giant dragon flying in cloudy sky",
         "category": "fantasy",
         "model": "midjourney",
@@ -254,7 +254,7 @@
     {
         "id": 15,
         "title": "Modern Kitchen Design",
-        "imageUrl": "https://example.com/images/15.jpg",
+        "imageUrl": "https://res.cloudinary.com/dyrgvsedy/image/upload/v1777397667/pexels-carlos-davila-2222626-22718126_sbrk2d.jpg",
         "prompt": "luxury modern kitchen interior design",
         "category": "interior",
         "model": "dalle",
@@ -272,7 +272,7 @@
     {
         "id": 16,
         "title": "Desert Landscape",
-        "imageUrl": "https://example.com/images/16.jpg",
+        "imageUrl": "https://res.cloudinary.com/dyrgvsedy/image/upload/v1777399459/pexels-nasirun-khan-102497153-37189969_cpiwgx.jpg",
         "prompt": "vast desert with dunes under blue sky",
         "category": "nature",
         "model": "stable-diffusion",
@@ -290,7 +290,7 @@
     {
         "id": 17,
         "title": "Gaming Setup RGB",
-        "imageUrl": "https://example.com/images/17.jpg",
+        "imageUrl": "https://res.cloudinary.com/dyrgvsedy/image/upload/v1777399457/pexels-peaky-31177212_kfgl6z.jpg",
         "prompt": "gaming room setup with RGB lights",
         "category": "gaming",
         "model": "midjourney",
@@ -308,7 +308,7 @@
     {
         "id": 18,
         "title": "Underwater World",
-        "imageUrl": "https://example.com/images/18.jpg",
+        "imageUrl": "https://res.cloudinary.com/dyrgvsedy/image/upload/v1777399457/pexels-peaky-31177212_kfgl6z.jpg",
         "prompt": "coral reef underwater with fishes",
         "category": "nature",
         "model": "dalle",
@@ -326,7 +326,7 @@
     {
         "id": 19,
         "title": "Old Library Room",
-        "imageUrl": "https://example.com/images/19.jpg",
+        "imageUrl": "https://res.cloudinary.com/dyrgvsedy/image/upload/v1777399459/pexels-nasirun-khan-102497153-37189969_cpiwgx.jpg",
         "prompt": "ancient library with old books and warm light",
         "category": "architecture",
         "model": "stable-diffusion",
@@ -344,7 +344,7 @@
     {
         "id": 20,
         "title": "Space Station Orbit",
-        "imageUrl": "https://example.com/images/20.jpg",
+        "imageUrl": "https://res.cloudinary.com/dyrgvsedy/image/upload/v1777397669/pexels-anntarazevich-6796613_v66bgd.jpg",
         "prompt": "space station orbiting earth with stars",
         "category": "space",
         "model": "midjourney",
@@ -362,7 +362,7 @@
     {
         "id": 21,
         "title": "Cyber Samurai",
-        "imageUrl": "https://example.com/images/21.jpg",
+        "imageUrl": "https://res.cloudinary.com/dyrgvsedy/image/upload/v1777399459/pexels-nasirun-khan-102497153-37189969_cpiwgx.jpg",
         "prompt": "cyberpunk samurai warrior with neon sword",
         "category": "sci-fi",
         "model": "dalle",
@@ -380,7 +380,7 @@
     {
         "id": 22,
         "title": "Flower Garden",
-        "imageUrl": "https://example.com/images/22.jpg",
+        "imageUrl": "https://res.cloudinary.com/dyrgvsedy/image/upload/v1777399286/pexels-babydov-19196558_eyyrfl.jpg",
         "prompt": "colorful flower garden in spring season",
         "category": "nature",
         "model": "stable-diffusion",
@@ -398,7 +398,7 @@
     {
         "id": 23,
         "title": "Street Food Stall",
-        "imageUrl": "https://example.com/images/23.jpg",
+        "imageUrl": "https://res.cloudinary.com/dyrgvsedy/image/upload/v1777397667/pexels-carlos-davila-2222626-22718126_sbrk2d.jpg",
         "prompt": "street food stall with delicious foods at night",
         "category": "food",
         "model": "midjourney",
@@ -416,7 +416,7 @@
     {
         "id": 24,
         "title": "Mountain Lake Reflection",
-        "imageUrl": "https://example.com/images/24.jpg",
+        "imageUrl": "https://res.cloudinary.com/dyrgvsedy/image/upload/v1777399459/pexels-nasirun-khan-102497153-37189969_cpiwgx.jpg",
         "prompt": "calm lake reflecting mountains and sky",
         "category": "nature",
         "model": "dalle",
@@ -434,7 +434,7 @@
     {
         "id": 25,
         "title": "AI Brain Visualization",
-        "imageUrl": "https://example.com/images/25.jpg",
+        "imageUrl": "https://res.cloudinary.com/dyrgvsedy/image/upload/v1777399457/pexels-peaky-31177212_kfgl6z.jpg",
         "prompt": "digital AI brain with glowing neural network",
         "category": "technology",
         "model": "stable-diffusion",
