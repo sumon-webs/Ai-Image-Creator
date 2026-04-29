@@ -10,7 +10,7 @@ export function ThemeSwitch() {
 
     return (
         <Switch
-        onChange={() => setTheme(theme === "dark" ? "light" : "dark")}        
+            onChange={() => setTheme(theme === "dark" ? "light" : "dark")}
         >
             {({ isSelected }) => (
                 <>
@@ -22,9 +22,9 @@ export function ThemeSwitch() {
                         >
                             <Switch.Icon>
                                 {isSelected ? (
-                                    <Sun/>
+                                    <Moon />
                                 ) : (
-                                    <Moon/>
+                                    <Sun />
                                 )}
                             </Switch.Icon>
                         </Switch.Thumb>

@@ -1,12 +1,20 @@
 "use client"
 
-import { Button } from "@heroui/react";
+import { Avatar, Button } from "@heroui/react";
 import NavLink from "../NavLink";
 import { useState } from "react";
 import { ThemeSwitch } from "../ThemeSwich";
+import Link from "next/link";
+import { useSession } from "@/lib/auth-client";
+import { FaSpinner } from "react-icons/fa";
 
 const NavBar = () => {
     const [open, setOpen] = useState(false);
+    const { data, isPending } = useSession()
+
+    const userName = data?.user?.name;
+    const userImage = data?.user?.image;
+
 
     return (
         <div className="shadow">
@@ -29,8 +37,16 @@ const NavBar = () => {
 
                     {/* Right Side (Desktop) */}
                     <div className="hidden md:flex items-center gap-3">
-                        <ThemeSwitch />
-                        <Button size="sm">Sign in</Button>
+                        <ThemeSwitch />{
+                            userImage ?
+                                <Avatar onClick={handleProfile}>
+                                    <Avatar.Image alt="John Doe" src={userImage} />
+                                    <Avatar.Fallback>{userName[0]}</Avatar.Fallback>
+                                </Avatar>
+                                : <Link href={'/sign-in'}>
+                                    <Button fullWidth size="sm">Sign in</Button>
+                                </Link>
+                        }
                     </div>
 
                     {/* Mobile Menu Button */}
@@ -54,7 +70,9 @@ const NavBar = () => {
                         {/* Mobile Actions */}
                         <div className="mt-4 flex items-center gap-3">
                             <ThemeSwitch />
-                            <Button fullWidth size="sm">Sign in</Button>
+                            <Link href={'/sign-in'}>
+                                <Button fullWidth size="sm">Sign in</Button>
+                            </Link>
                         </div>
                     </div>
                 )}
